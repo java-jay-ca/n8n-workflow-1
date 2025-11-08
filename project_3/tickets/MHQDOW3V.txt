@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Michael
+
+Submitted: 2025-11-08T07:27:08.816-07:00
+
+Description:
+User Michael is unable to reset his password as the self-service password reset portal is currently down.
