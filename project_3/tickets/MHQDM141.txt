@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Jason
+
+Submitted: 2025-11-08T07:24:54.247-07:00
+
+Description:
+User's Excel application is frozen and troubleshooting steps did not resolve the issue.
